@@ -1,7 +1,7 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : Nikolas Galoih Saputro
-NIU : 482747 
+Nama : Nikolas Galoih Saputro  
+NIU : 482747  
 Sesi : pagi  
 Secret String : 4dee7a02077e18c07fc75c55c04ba165a26d3a6831313c3352758b0b431a52fd20240603080323
 
